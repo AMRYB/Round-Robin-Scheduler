@@ -81,3 +81,4 @@ print(waiting_time , sum(waiting_time) / process_size)
 # Modified by YOUSSEFGX
 # Modified by YOUSSEFGX
 # Modified by YOUSSEFGX
+# Modified by YOUSSEFGX
