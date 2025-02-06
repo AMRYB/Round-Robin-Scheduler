@@ -20,11 +20,12 @@ Key functionalities include:
 - **Project Leader:** Amr Yasser
 - **Assistants:**
   - Youssef Mahmoud
+  - Mohamed Waleed
   - Sama El-Fishawy
   - Youssef El-Sayed
   - Mohamed Hareth
   - Mariam Mohamed
-  - Mohamed Walid
+
 ---
 ## How to Use 📖
 
