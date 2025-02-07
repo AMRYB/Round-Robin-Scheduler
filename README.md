@@ -80,7 +80,7 @@ Enter the burst time of process  2: 2
 ## Contributions 🤝
 
 This project was developed through the collaborative efforts of:  
-- **Youssef Mahmoud**  
+- **Youssef Mahmoud** 
 - **Youssef El-Sayed**  
 
 Special thanks to all contributors and team members:  
